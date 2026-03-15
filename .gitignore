@@ -1,0 +1,5 @@
+/.venv
+/data template backup
+/input
+/output
+/__pycache__
